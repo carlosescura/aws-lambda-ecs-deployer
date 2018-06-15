@@ -1,0 +1,7 @@
+{
+  "cluster": "betaHouse",
+  "service": "webserver",
+  "service_family_prefix": "my-company",
+  "container": "nginx",
+  "image": "nginx:latest"
+}
